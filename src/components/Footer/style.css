@@ -1,0 +1,17 @@
+.footer {
+  height: 100%;
+  background: rgb(32, 141, 200);
+  text-align: center;
+
+}
+p {
+  padding-top: 50px;
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(250, 253, 255);
+  border-radius: 50px;
+  margin: 0px 15px;
+}
